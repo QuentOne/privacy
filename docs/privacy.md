@@ -118,8 +118,8 @@ If you are accessing Stackio from outside the United States, please note that yo
 
 If you have questions about this Privacy Policy or your data, please contact us:
 
-- **Email:** [YOUR SUPPORT EMAIL]
-- **Support:** [YOUR SUPPORT URL]
+- **Email:** contact@bumbolabs.com
+- **Support:** https://quentone.github.io/privacy/privacy
 
 ## Your Consent
 
@@ -135,7 +135,7 @@ By using Stackio, you consent to this Privacy Policy.
 
 **You can:** View, edit, or delete your data anytime
 
-**Questions?** Contact us at [YOUR SUPPORT EMAIL]
+**Questions?** Contact us at contact@bumbolabs.com
 
 ---
 
